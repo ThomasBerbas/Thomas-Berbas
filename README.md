@@ -1,14 +1,14 @@
 # Thomas-Berbas
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Thomas Berbas!
 
 Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and lifelong learner who enjoys building open-source projects and collaborating with others.
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **[Project Name](https://github.com/your-profile/project-name)**.
-- 🌱 I’m learning **[Technology/Tool]**.
-- 💬 Ask me about **[Topics or Skills]**.
+- 🔭 I’m currently working on **[Project Name](https://github.com/your-profile/thomas-berbas)**.
+- 🌱 I’m learning **[this or that]**.
+- 💬 Ask me about **[odss or ends]**.
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com).
-- ⚡ Fun fact: [Insert something fun about yourself].
+- ⚡ Fun fact: [facts are fun].
 
 ## 🚀 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and li
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Twitter: [Your Twitter](https://twitter.com/your-profile)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- 
+- Twitter: [Your Twitter](https://https://x.com/ThomasBerbas)
+- Portfolio: [Your Portfolio](https://creativemornings.com/individuals/thomasberbas)
 
 ---
 
